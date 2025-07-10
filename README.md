@@ -17,11 +17,6 @@ Aplikasi desktop berbasis Python + Tkinter. Aplikasi ini memungkinkan pengguna m
 - Hapus data penduduk
 - Tampilan tabel data dengan TreeView Tkinter
 
-✅ **Tab Navigasi Otomatis**
-
-- Menggunakan `Notebook` (tab view) dari `ttk`
-- Fitur refresh otomatis saat berpindah tab
-
 ✅ **Struktur Modular**
 
 - `main.py` = Entry point
