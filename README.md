@@ -1,6 +1,6 @@
 # 🧑‍💻 UTS Pemrograman 2B – Aplikasi Manajemen Data Penduduk
 
-Aplikasi desktop berbasis Python + Tkinter ini dibuat sebagai tugas **UTS Mata Kuliah Pemrograman**. Aplikasi ini memungkinkan pengguna mengelola data penduduk seperti menambahkan, mengedit, dan menghapus data secara langsung dari GUI yang terhubung ke database MySQL.
+Aplikasi desktop berbasis Python + Tkinter. Aplikasi ini memungkinkan pengguna mengelola data penduduk seperti menambahkan, mengedit, dan menghapus data secara langsung dari GUI yang terhubung ke database MySQL.
 
 ---
 
